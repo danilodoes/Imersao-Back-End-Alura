@@ -1,3 +1,4 @@
 Aula 1 - Desvendando APIs e Servidores
 Aula 2 - Criando e Estruturando sua primeira API com GET e Banco de Dados
 Aula 3 - Conectando sua API ao MongoDB: Estrutura, Conexão e Refatoração
+Aula 4 - Implementando Armazenamento e Upload de Imagens
