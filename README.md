@@ -1,8 +1,10 @@
 # Imersao Back-End Alura 📝
 
-- Criar um blog de fotos do zero, abrangendo desde os fundamentos do Node.js, até a utilização de APIs na prática
+- Imersao abrangendo desde os fundamentos do Node.js, até a utilização de APIs na prática para criação de um "blog de fotos".
 
 ## Tecnologias Utilizadas 💻
 
 - JS
-- MONGO DB
+- MONGO ATLAS
+- GOOGLE GIMINE
+- GCLOUD
